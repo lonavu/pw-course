@@ -1,0 +1,13 @@
+git init 
+// Khởi tạo repo git
+
+git add <file_name>
+// Thêm file chỉ định vào staging area
+
+git add .
+// Thêm toàn bộ các file mới,file chỉnh sửa, file xóa vào staging area
+
+git commit -m “message”
+// Tạo 1 commit những thay đổi lên repo
+
+
