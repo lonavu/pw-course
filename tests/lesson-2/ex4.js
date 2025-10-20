@@ -1,5 +1,5 @@
 //Khai báo chiều cao
-let chieuCao = 160;
+let chieuCao = 170;
 
 // Tính số lẻ của chiều cao là 2 số cuối của chiều cao = phần dư khi thực hiện phép chia 170 % 100
 let soLeChieuCao = chieuCao % 100;
