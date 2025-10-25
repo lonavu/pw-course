@@ -1,0 +1,11 @@
+git commit --amend
+// Sửa lại commit vừa tạo
+ 
+git commit --amend -m”<message>”
+// Sửa lại message của commit
+
+git restore --staged <file>
+// Restore file cụ thể từ staging về working directory 
+
+git reset HEAD~1
+// Reset 1 commit về vùng working directory
